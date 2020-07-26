@@ -1,5 +1,5 @@
-# Spring Vue Article App
-> A simple article writing app built on Spring Boot and VueJS.
+# Blogger App
+> A school task to make a simple blog article app built with Spring Boot and VueJS.
 
 ## How to use it?
 ```bash
